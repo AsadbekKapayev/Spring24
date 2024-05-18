@@ -1,0 +1,3 @@
+rootProject.name = 'Spring24'
+include 'test'
+
