@@ -1,7 +1,6 @@
 package org.example.annotation_based;
 
 import org.example.annotation_based.repository.CrudRepository;
-import org.example.annotation_based.repository.UserRepository;
 import org.example.annotation_based.service.UserService;
 import org.example.annotation_based.service.UserWithInject;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
